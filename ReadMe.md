@@ -1,5 +1,5 @@
 # 💫 About Me:
-Digital enthusiast in a career transition to software development. <br>Currently, I'm working with Digital Marketing but studying programming languages such as JavaScript, Java, SQL, and frameworks like React and Spring.
+Digital enthusiast in a career transition. <br>Currently, I'm working with Digital Marketing but studying programming languages such as JavaScript, Java, SQL, and frameworks like React and Spring.
 
 
 ## 🌐 Socials:
